@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T12:35:36.254Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="29rEHWGs5nWvhh8FGvnb" version="14.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-18T12:43:00.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="MoTgtPUisQXq7DTPGBER" version="14.4.5" type="github">
   <diagram id="YLSzRJGPFFzcSf5GAKoJ" name="Page-1">
-    <mxGraphModel dx="2029" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1681" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,7 +104,7 @@
           <mxGeometry x="365" y="560" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YeK8_mfaBbaLDlQbijiX-31" value="Jira Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="600" width="80" height="20" as="geometry" />
+          <mxGeometry x="345" y="600" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YeK8_mfaBbaLDlQbijiX-33" value="&lt;b style=&quot;font-size: 17px&quot;&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 17px&quot;&gt;City Achiever&lt;br&gt;Application Architecture&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="200" width="220" height="40" as="geometry" />
@@ -189,6 +189,35 @@
         </mxCell>
         <mxCell id="YeK8_mfaBbaLDlQbijiX-56" value="Future Pipline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="455" y="425" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YeK8_mfaBbaLDlQbijiX-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=4;endSize=2;fontColor=#000000;" edge="1" parent="1" source="YeK8_mfaBbaLDlQbijiX-59" target="YeK8_mfaBbaLDlQbijiX-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YeK8_mfaBbaLDlQbijiX-59" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.google;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="368.13" y="643.75" width="33.75" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YeK8_mfaBbaLDlQbijiX-61" value="Google Domain" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="335" y="680" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YeK8_mfaBbaLDlQbijiX-62" value="&#xa;&#xa;" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="493.75000000000006" y="860" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YeK8_mfaBbaLDlQbijiX-63" value="© City Achiever 2021. All rights reserved." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FF0000;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="295" y="530" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YeK8_mfaBbaLDlQbijiX-64" value="&lt;font color=&quot;#999999&quot;&gt;Author: Sacha Roussakis-Notter&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=9;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="315" y="240" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YeK8_mfaBbaLDlQbijiX-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=4;endSize=2;fontSize=9;fontColor=#FF0000;" edge="1" parent="1" source="YeK8_mfaBbaLDlQbijiX-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="662" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YeK8_mfaBbaLDlQbijiX-66" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/social-media-logos-flat-colorful/2048/5303_-_Gmail-128.png;fillColor=none;fontSize=9;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="462.2" y="641.25" width="42.5" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YeK8_mfaBbaLDlQbijiX-68" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;Google Mail&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="443.45" y="680" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
